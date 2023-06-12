@@ -1,4 +1,4 @@
-Портфолио с фильтрами
+Портфолио с Тест-Кейсами
 ===
-
-![portfolio-all](./assets/portfolio-all.png)
+1. [TestCases in TestRail](TestRail).
+1. [TestCases in Excel](Table).
