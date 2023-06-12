@@ -1,5 +1,7 @@
-## TestCases in Excel
+## Bug reports in JIRA
 
-![Excel01](../img/12storeez%20Login%20test-cases_page-0001.jpg)
+![BugReport01](./img/Jira%20Bug%20Report%20Instagram.jpg)
 
-![Excel02](../img/12storeez%20Login%20test-cases_page-0002.jpg)
+![BugReport02](./img/Jira%20Bug%20Report%20Duolingo.jpg)
+
+![BugReport03](./img/Jira%20Bug%20Report%20AliExpress.jpg)
